@@ -2,7 +2,7 @@
 from math import exp
 
 #find exponents
-x = [50,10,1,0.1]
+x = [3.2,1.3,0.2,0.8]
 y = [0,0,0,0]
 soft_max_result = [0,0,0,0]
 
